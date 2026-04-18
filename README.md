@@ -1,4 +1,4 @@
-# Tour Management System (Tkinter) - phiên bản nâng cấp kiến trúc
+# Tour Management System
 
 Ứng dụng desktop quản lý tour du lịch với 3 vai trò:
 - `admin`
