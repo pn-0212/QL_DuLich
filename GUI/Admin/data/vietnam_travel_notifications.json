@@ -1,0 +1,42 @@
+[
+  {
+    "maHDV": "HDV01",
+    "tenHDV": "Trần Thị Như Ý",
+    "maTour": "T01",
+    "tenTour": "Đà Lạt Phố Hoa 3N2Đ",
+    "content": "Nhắc lịch: tour Đà Lạt Phố Hoa 3N2Đ sẽ khởi hành ngày 20/03/2026. Vui lòng có mặt đúng giờ.",
+    "date": "19/03/2026 08:00"
+  },
+  {
+    "maHDV": "HDV02",
+    "tenHDV": "Võ Thu Minh Khang",
+    "maTour": "T02",
+    "tenTour": "Sapa Mây Núi 4N3Đ",
+    "content": "Nhắc lịch: tour Sapa Mây Núi 3N2Đ sẽ khởi hành ngày 25/03/2026. Vui lòng kiểm tra hành lý.",
+    "date": "24/03/2026 08:00"
+  },
+  {
+    "maHDV": "HDV03",
+    "tenHDV": "Đặng Đức Khánh Linh",
+    "maTour": "T03",
+    "tenTour": "Phú Quốc Nghỉ Dưỡng 4N3Đ",
+    "content": "Cảm ơn bạn đã tham gia tour Phú Quốc Nghỉ Dưỡng 4N3Đ. Mong bạn đánh giá chuyến đi!",
+    "date": "30/03/2026 18:00"
+  },
+  {
+    "maHDV": "HDV04",
+    "tenHDV": "Mai Khánh Quốc Anh",
+    "maTour": "T04",
+    "tenTour": "Hạ Long Du Thuyền 2N1Đ",
+    "content": "Tour Hạ Long Du Thuyền 2N1Đ đã hoàn tất. Chúc bạn một ngày tốt lành!",
+    "date": "30/03/2026 18:00"
+  },
+  {
+    "maHDV": "HDV05",
+    "tenHDV": "Lý Gia Thanh Trúc",
+    "maTour": "T05",
+    "tenTour": "Đà Nẵng Hội An 3N2Đ",
+    "content": "Nhắc lịch: tour Đà Nẵng Hội An 3N2Đ sẽ khởi hành ngày 01/04/2026.",
+    "date": "31/03/2026 08:00"
+  }
+]

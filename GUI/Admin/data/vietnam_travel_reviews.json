@@ -1,0 +1,42 @@
+[
+  {
+    "username": "ngoctuyen",
+    "fullname": "Trần Nguyễn Ngọc Tuyền",
+    "target": "HDV",
+    "target_id": "HDV01",
+    "content": "Chuyến đi rất trọn vẹn, HDV hỗ trợ nhiệt tình và sắp xếp lịch hợp lý.",
+    "date": "28/05/2026"
+  },
+  {
+    "username": "minhthu",
+    "fullname": "Dương Kim Minh Thư",
+    "target": "HDV",
+    "target_id": "HDV02",
+    "content": "HDV vui vẻ, kiến thức tốt, đoàn di chuyển đúng giờ.",
+    "date": "31/05/2026"
+  },
+  {
+    "username": "thanhha",
+    "fullname": "Nguyễn Anh Thanh Hà",
+    "target": "HDV",
+    "target_id": "HDV03",
+    "content": "Lịch trình rõ ràng, điểm tham quan đẹp, chăm sóc khách chu đáo.",
+    "date": "02/06/2026"
+  },
+  {
+    "username": "bao",
+    "fullname": "Vũ Quỳnh Quốc Bảo",
+    "target": "HDV",
+    "target_id": "HDV04",
+    "content": "Tour ổn, ăn ở tốt, HDV xử lý tình huống nhanh.",
+    "date": "02/06/2026"
+  },
+  {
+    "username": "duyen",
+    "fullname": "Dương Gia Mỹ Duyên",
+    "target": "HDV",
+    "target_id": "HDV05",
+    "content": "Rất hài lòng với chuyến đi, sẽ quay lại đặt tour lần sau.",
+    "date": "05/06/2026"
+  }
+]
